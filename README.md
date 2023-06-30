@@ -1,9 +1,10 @@
 <h1 align="center"> Database para fábrica de picolés </h1>
 <p align="center"> <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/> </p>
-<b>-> Estudo de caso para uma empresa fabricante de picolés, que deseja armazenar informações acerca de seus negócios.
+
+> Estudo de caso para uma empresa fabricante de picolés, que deseja armazenar informações acerca de seus negócios. 
 
 ---
-### Sobre o levantamento de requisitos:
+##### Sobre o levantamento de requisitos:
 - Os picolés fabricados são divididos em normal (com água) e ao leite.
 - As informações comuns armazenadas dos picolés são: sabor, ingredientes, preço e tipo da embalagem.
 - Especificamente:
