@@ -1,5 +1,9 @@
+# folders
+files-ingnore/
+
 # Compiled class file
 *.class
+*.bak
 
 # Log file
 *.log
